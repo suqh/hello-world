@@ -4,3 +4,4 @@ aaa
 add
 ccc
 test fetch
+test pull
