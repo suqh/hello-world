@@ -1,4 +1,5 @@
 hello
+merge
 test-modify
 aaa
 add
