@@ -4,4 +4,8 @@ test-modify
 aaa
 add
 ccc
+<<<<<<< HEAD
 merge
+=======
+test fetch
+>>>>>>> origin/master
