@@ -8,4 +8,9 @@ ccc
 merge
 =======
 test fetch
+<<<<<<< HEAD
 >>>>>>> origin/master
+=======
+test pull
+>>>>>>> 749e9438a7342c67ae7422f536c94d9c54a524c4
+push test
